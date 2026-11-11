@@ -1,10 +1,10 @@
 # Baitaplab3_de2
 # Hệ thống giám sát vườn cây công nghiệp
-Họ và tên: Hoàng Nhất Công
-MSV: 231432181
-Lớp: Kỹ thuật Điện tử - Tin học công nghiệp 2 K64
-Link Wokwi: [Truy cập link tại đây](https://wokwi.com/projects/480205288590103553)
-Báo cáo: 
+ Họ và tên: Hoàng Nhất Công
+ MSV: 231432181
+ Lớp: Kỹ thuật Điện tử - Tin học công nghiệp 2 K64
+ Link Wokwi: [Truy cập link tại đây](https://wokwi.com/projects/480205288590103553)
+ Báo cáo: 
 ## 1. Giới thiệu
 Dự án xây dựng hệ thống giám sát môi trường vườn cây công nghiệp (cà phê, hồ tiêu) sử dụng ESP32 và cảm biến DHT22.
 

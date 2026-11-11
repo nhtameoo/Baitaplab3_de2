@@ -1,7 +1,7 @@
 # Baitaplab3_de2
 # Hệ thống giám sát vườn cây công nghiệp
- Họ và tên: Hoàng Nhất Công
- MSV: 231432181
+ Họ và tên: Hoàng Nhất Công\n
+ MSV: 231432181\n
  Lớp: Kỹ thuật Điện tử - Tin học công nghiệp 2 K64
  Link Wokwi: [Truy cập link tại đây](https://wokwi.com/projects/480205288590103553)
  Báo cáo: 

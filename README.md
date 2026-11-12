@@ -8,7 +8,8 @@ Lớp: Kỹ thuật Điện tử - Tin học công nghiệp 2 K64
 
 Link Wokwi: [Truy cập link tại đây](https://wokwi.com/projects/480205288590103553)
 
-Báo cáo: 
+Báo cáo: [Bao_cao_Lab3_De2_Hoang_Nhat_Cong.docx](https://github.com/user-attachments/files/34731721/Bao_cao_Lab3_De2_Hoang_Nhat_Cong.docx)
+
 ## 1. Giới thiệu
 Dự án xây dựng hệ thống giám sát môi trường vườn cây công nghiệp (cà phê, hồ tiêu) sử dụng ESP32 và cảm biến DHT22.
 
